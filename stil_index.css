@@ -104,6 +104,10 @@ a{
 	text-decoration:none;
 	color:black
 }
+#def{
+    background-color:white;
+    transform:skew(1deg,1deg);	
+}
 footer{
 	right:-140px;
 	position:relative;
@@ -211,6 +215,10 @@ footer{
 		text-decoration:none;
 		color:black
 	}
+	#def{
+	         background-color:white;
+                 transform:skew(1deg,1deg);	
+        }
 	footer{
 		font-size:12px;
 		right:-40px;
@@ -320,6 +328,10 @@ footer{
 		text-decoration:none;
 		color:black
 	}
+	#def{
+	        background-color:white;
+                transform:skew(1deg,1deg) translate(7px);	
+        }
 	footer{
 		font-size:15px;
 		right:-80 px;
