@@ -23,11 +23,15 @@ h1{
 	left:0px;
 	top:0px;
 	z-index:1;
+	height:18%;
+	width:100%;
 }
 #imgleft{
 	position:fixed;
 	left:0px;
 	top:125px;
+	height:100%;
+	width:9%;
 }	
 header>nav{
 	width:100%;
