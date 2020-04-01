@@ -100,7 +100,7 @@ h3{
 }
 #Parent{
 	display:flex;
-	flex:row nowrap;
+	flex-flow:row nowrap;
 	justify-content:space-between;
 }
 #Parent>section{
@@ -367,7 +367,7 @@ footer{
         }
 	footer{
 		font-size:15px;
-		right:-80 px;
+		right:-80px;
 		position:relative;
 	}
-}	
+}				
