@@ -165,7 +165,7 @@ a{
 	table,th,td{
 		border:5px solid green;
 		border-spacing:2px;
-		transform:translate(-100px,-80px),scale(0.6);
+		transform:translate(-100px,-80px) scale(0.6);
 	}
 	body{
 	    background-color:#D8EBB5;
