@@ -184,6 +184,7 @@ iframe{
 		display:grid;
 		grid-template-columns:auto auto;
 		transform:scale(0.6);
+		margin-left:-60px;
 		grid-column-gap:10px;
 		grid-row-gap:10px;
 		flex-wrap:wrap;
