@@ -82,6 +82,9 @@ a{
 	text-decoration:none;
 	color:black;			
 }
+aside{
+	display:none;
+}
 @media screen and (max-width:320px){
 	*{
 		margin:0px;
@@ -271,5 +274,8 @@ a{
 	a{
 		text-decoration:none;
 		color:black;			
+	}
+	#a1{
+		display:none;
 	}
 }	
