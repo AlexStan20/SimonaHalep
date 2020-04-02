@@ -163,13 +163,11 @@ a{
 	ul.menu>li:hover{
 		overflow:visible;
 	}
-	table{
-            display:none;	
-        }
 	table,th,td{
 		border:5px solid green;
 		border-spacing:2px;
 		transform:translate(-100px,-80px) scale(0.6);
+		display:none;
 	}
 	body{
 	    background-color:#D8EBB5;
@@ -260,7 +258,7 @@ a{
 	ul.menu>li:hover{
 		overflow:visible;
 	}
-	#t2{
+	table,th,td#t2{
             display:none;	
         }
 	table,th,td{
