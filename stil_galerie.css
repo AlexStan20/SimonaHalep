@@ -73,7 +73,7 @@ ul.menu>li:hover{
 }
 #FotoGalery{
 	display:grid;
-	grid-template-columns:auto auto auto auto;
+	grid-template-columns:auto auto auto;
 	grid-column-gap:10px;
 	grid-row-gap:10px;
 	flex-wrap:wrap;
@@ -183,6 +183,7 @@ iframe{
 	#FotoGalery{
 		display:grid;
 		grid-template-columns:auto auto;
+		transform:scale(0.6);
 		grid-column-gap:10px;
 		grid-row-gap:10px;
 		flex-wrap:wrap;
@@ -292,7 +293,8 @@ iframe{
 	}
 	#FotoGalery{
 		display:grid;
-		grid-template-columns:auto auto auto;
+		grid-template-columns:auto auto;
+		transform:scale(0.8);
 		grid-column-gap:10px;
 		grid-row-gap:10px;
 		flex-wrap:wrap;
