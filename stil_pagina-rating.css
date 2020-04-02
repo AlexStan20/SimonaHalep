@@ -10,7 +10,7 @@ main{
 }
 h1{
 	position:fixed;
-	font-family:Palace Script MT;
+	font-family:"Palace Script MT";
 	font-size:55px;
 	text-align:center;
 	z-index:2;
@@ -91,7 +91,7 @@ a{
 	}
 	h1{
 		position:fixed;
-		font-family:Palace Script MT;
+		font-family:"Palace Script MT";
 		font-size:25px;
 		text-align:center;
 		z-index:2;
@@ -173,7 +173,7 @@ a{
 	}
 	h1{
 		position:fixed;
-		font-family:Palace Script MT;
+		font-family:"Palace Script MT";
 		font-size:37px;
 		text-align:center;
 		z-index:2;
