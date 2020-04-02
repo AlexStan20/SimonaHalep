@@ -158,6 +158,9 @@ a{
 	ul.menu>li:hover{
 		overflow:visible;
 	}
+	#soon{
+		transform:translate(-60px);
+	}
 }
 @media screen and (max-width:768px){
 	*{
@@ -239,5 +242,8 @@ a{
 	}
 	ul.menu>li:hover{
 		overflow:visible;
+	}
+	#soon{
+		transform:translate(-60px);
 	}
 }		
