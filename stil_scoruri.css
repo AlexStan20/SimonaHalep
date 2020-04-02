@@ -261,7 +261,7 @@ aside{
 	ul.menu>li:hover{
 		overflow:visible;
 	}
-	table,th,td#t2{
+	#t2{
             display:none;	
         }
 	table,th,td{
