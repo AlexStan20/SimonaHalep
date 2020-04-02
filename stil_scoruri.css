@@ -164,8 +164,8 @@ a{
 		overflow:visible;
 	}
 	table{
-        transform:scale(0.6);	
-    }
+            display:none;	
+        }
 	table,th,td{
 		border:5px solid green;
 		border-spacing:2px;
@@ -260,9 +260,9 @@ a{
 	ul.menu>li:hover{
 		overflow:visible;
 	}
-	table{
-        transform:scale(0.8);	
-    }
+	#t2{
+            display:none;	
+        }
 	table,th,td{
 		border:5px solid green;
 		border-spacing:2px;
