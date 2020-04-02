@@ -10,7 +10,7 @@ main{
 }
 h1{
 	position:fixed;
-	font-family:Palace Script MT;
+	font-family:"Palace Script MT";
 	font-size:55px;
 	text-align:center;
 	z-index:2;
@@ -107,7 +107,7 @@ h3{
 	flex-grow:1;
 	flex-basis:0;
 }
-#2{
+#b2{
 	display:block;
 	text-align:center;
 }
@@ -141,7 +141,7 @@ footer{
 	}
 	h1{
 		position:fixed;
-		font-family:Palace Script MT;
+		font-family:"Palace Script MT";
 		font-size:25px;
 		text-align:center;
 		animation-name:smallwelcome;
@@ -226,7 +226,7 @@ footer{
 	#Parent{
 		display:block;
 	}
-	#2{
+	#b2{
 		display:block;
 		text-align:center;
 	}
@@ -261,7 +261,7 @@ footer{
 	}
 	h1{
 		position:fixed;
-		font-family:Palace Script MT;
+		font-family:"Palace Script MT";
 		font-size:37px;
 		text-align:center;
 		z-index:2;
@@ -350,7 +350,7 @@ footer{
 		display:grid;
 		grid-template-columns:auto auto;
 	}
-	#2{
+	#b2{
 		display:block;
 		text-align:center
 	}
