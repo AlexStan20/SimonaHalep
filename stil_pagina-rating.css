@@ -156,7 +156,7 @@ a{
 		overflow:visible;
 	}
 }
-@media screen and (max-width:768px){
+@media screen and (min-width:321px) and (max-width:768px){
 	*{
 		margin:0px;
 		padding:0px;
