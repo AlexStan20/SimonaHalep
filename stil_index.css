@@ -122,10 +122,6 @@ a{
     background-color:white;
     transform:skew(1deg,1deg);	
 }
-footer{
-	right:-140px;
-	position:relative;
-}
 
 @media screen and (max-width:320px){
 	*{
@@ -241,11 +237,6 @@ footer{
 	         background-color:white;
                  transform:skew(1deg,1deg);	
         }
-	footer{
-		font-size:12px;
-		right:-40px;
-		position:relative;
-	}
 }
 @media screen and (max-width:768px){
 	*{
@@ -365,9 +356,4 @@ footer{
 	        background-color:white;
                 transform:skew(1deg,1deg) translate(7px);	
         }
-	footer{
-		font-size:15px;
-		right:-80px;
-		position:relative;
-	}
 }				
